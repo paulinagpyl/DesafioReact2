@@ -1,0 +1,14 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+.activo {
+  color: #000;
+  text-decoration: none;
+  padding-left: 15px;
+  font-weight: bold;
+}
+
+.noActivo {
+  color: #000;
+  text-decoration: none;
+  padding-left: 15px;
+}
